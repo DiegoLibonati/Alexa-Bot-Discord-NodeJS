@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Die",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/rest": "^1.1.0",
+    "@discordjs/voice": "^0.11.0",
+    "@distube/spotify": "^1.3.2",
+    "discord-speech-recognition": "^3.0.1",
+    "discord.js": "^14.3.0",
+    "distube": "^4.0.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "google-tts-api": "^2.0.2",
+    "libsodium-wrappers": "^0.7.10",
+    "mongoose": "^6.6.0",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
