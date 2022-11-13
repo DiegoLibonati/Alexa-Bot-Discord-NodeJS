@@ -33,7 +33,4 @@ I made a discord bot in Node JS. I made a bot that serves as a virtual assistant
 
 ## Video
 
-
-
 https://user-images.githubusercontent.com/99032604/199867376-fd991bd3-5e49-47a6-93b3-612a4c8363a7.mp4
-
